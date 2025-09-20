@@ -1,5 +1,36 @@
 # Changelog
 
+## [1.0.0](https://github.com/bh2smith/cow-sdk/compare/sdk-ethers-v5-adapter-v0.1.0...sdk-ethers-v5-adapter-v1.0.0) (2025-09-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* release cow-sdk v7
+
+### ✨ Features
+
+* allow changing backoff and limiter per request ([#208](https://github.com/bh2smith/cow-sdk/issues/208)) ([ebea5ca](https://github.com/bh2smith/cow-sdk/commit/ebea5ca0858aeb89ae3e5d5407c8903c3ca5178d))
+* release cow-sdk v7 ([6cd3e57](https://github.com/bh2smith/cow-sdk/commit/6cd3e573687b1ffdbc0fdcb8cdbb414d88546e38))
+
+
+### 🐛 Bug Fixes
+
+* rename ether to ethers ([#504](https://github.com/bh2smith/cow-sdk/issues/504)) ([eaf2705](https://github.com/bh2smith/cow-sdk/commit/eaf2705f269352d3bc2908eb3335ff56ef426823))
+
+
+### 🔧 Miscellaneous
+
+* release main ([#505](https://github.com/bh2smith/cow-sdk/issues/505)) ([0f98564](https://github.com/bh2smith/cow-sdk/commit/0f985640c6e6f0852505cb3ad66c07bd3f23ea7b))
+* release main ([#511](https://github.com/bh2smith/cow-sdk/issues/511)) ([5629bb2](https://github.com/bh2smith/cow-sdk/commit/5629bb25f89b62e490b9819393036994688bf648))
+* release main ([#515](https://github.com/bh2smith/cow-sdk/issues/515)) ([912e315](https://github.com/bh2smith/cow-sdk/commit/912e31551440ebfa61d7d2f5c846d61162559448))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cowprotocol/sdk-common bumped to 1.0.0
+
 ## [0.1.0](https://github.com/cowprotocol/cow-sdk/compare/sdk-ethers-v5-adapter-v0.2.5-beta.0...sdk-ethers-v5-adapter-v0.1.0) (2025-09-17)
 
 
